@@ -1,4 +1,5 @@
-dev_jokes
-=========
+Jokes to make their faults a little happier! =)
 
-Various and Famous jokes for you codes harmony :)
+Initial jokes: http://stackoverflow.hewgill.com/questions/234/075.html
+
+Congrats for you contribuition!
